@@ -991,40 +991,6 @@ dialog.out::backdrop {
     animation: none;
   }
 }
-.own {
-  margin: 28px 0 0;
-  max-width: 340px;
-}
-.slot {
-  aspect-ratio: 4/5;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
-  text-align: center;
-  padding: 24px;
-  border: 2px dashed rgba(255, 224, 0, 0.55);
-  border-radius: 50% 50% 14px 14px/28% 28% 14px 14px;
-  color: #bdbdbd;
-  font-weight: 700;
-}
-.slot small {
-  color: var(--y);
-  font-weight: 600;
-}
-.own img {
-  display: block;
-  width: 100%;
-  aspect-ratio: 4/5;
-  object-fit: cover;
-  border-radius: 50% 50% 14px 14px/28% 28% 14px 14px;
-}
-.own figcaption {
-  margin-top: 12px;
-  color: #9a9a9a;
-  font-size: 14px;
-}
 .cp {
   display: block;
   width: 100%;
